@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fd59356-4b19-4f37-8d8b-6aa573d75560" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ywf/test/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ywf/test/GitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_repo" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2cMWT0DvZIsqjpgoz63QhIoo5q6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd59356-4b19-4f37-8d8b-6aa573d75560" name="Default Changelist" comment="" />
+      <created>1707921931929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707921931929</updated>
+      <workItem from="1707921935151" duration="5694000" />
+    </task>
+    <task id="LOCAL-00001" summary="firstcommit">
+      <created>1707923870802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707923870802</updated>
+    </task>
+    <task id="LOCAL-00002" summary="twocommit">
+      <created>1707924181263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707924181263</updated>
+    </task>
+    <task id="LOCAL-00003" summary="firstcommithotfix">
+      <created>1707925360088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707925360088</updated>
+    </task>
+    <task id="LOCAL-00004" summary="firstcommitmaster">
+      <created>1707925739192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707925739192</updated>
+    </task>
+    <task id="LOCAL-00005" summary="twocommithotfix">
+      <created>1707925807453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707925807453</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstcommit" />
+    <MESSAGE value="twocommit" />
+    <MESSAGE value="firstcommithotfix" />
+    <MESSAGE value="firstcommitmaster" />
+    <MESSAGE value="twocommithotfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="twocommithotfix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="88" key="#Project_Structure" timestamp="1707923681069">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="313" y="88" key="#Project_Structure/0.0.1440.852@0.0.1440.852" timestamp="1707923681069" />
+    <state x="340" y="20" key="CommitChangelistDialog2" timestamp="1707925806970">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="340" y="20" key="CommitChangelistDialog2/0.0.1440.852@0.0.1440.852" timestamp="1707925806970" />
+    <state x="502" y="186" key="FileChooserDialogImpl" timestamp="1707923225910">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="502" y="186" key="FileChooserDialogImpl/0.0.1440.852@0.0.1440.852" timestamp="1707923225910" />
+    <state x="588" y="325" width="269" height="200" key="Github.ShareDialog" timestamp="1707927341777">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="588" y="325" width="269" height="200" key="Github.ShareDialog/0.0.1440.852@0.0.1440.852" timestamp="1707927341777" />
+    <state x="137" y="78" key="MergeDialog" timestamp="1707925934646">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="137" y="78" key="MergeDialog/0.0.1440.852@0.0.1440.852" timestamp="1707925934646" />
+    <state x="429" y="146" key="MultipleFileMergeDialog" timestamp="1707925934652">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="429" y="146" key="MultipleFileMergeDialog/0.0.1440.852@0.0.1440.852" timestamp="1707925934652" />
+    <state x="224" y="72" key="SettingsEditor" timestamp="1707927063650">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="224" y="72" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1707927063650" />
+    <state x="379" y="195" key="run.anything.popup" timestamp="1707927657961">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="379" y="195" key="run.anything.popup/0.0.1440.852@0.0.1440.852" timestamp="1707927657961" />
+  </component>
+</project>
