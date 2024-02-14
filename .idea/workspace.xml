@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fd59356-4b19-4f37-8d8b-6aa573d75560" name="Default Changelist" comment="">
+    <list default="true" id="2fd59356-4b19-4f37-8d8b-6aa573d75560" name="Default Changelist" comment="twocommitmaster2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ywf/test/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ywf/test/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707921931929</updated>
-      <workItem from="1707921935151" duration="5980000" />
+      <workItem from="1707921935151" duration="6494000" />
     </task>
     <task id="LOCAL-00001" summary="firstcommit">
       <created>1707923870802</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707927747784</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="twocommitmaster2">
+      <created>1707927974744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927974744</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,17 +159,18 @@
     <MESSAGE value="firstcommithotfix" />
     <MESSAGE value="firstcommitmaster" />
     <MESSAGE value="twocommithotfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="twocommithotfix" />
+    <MESSAGE value="twocommitmaster2" />
+    <option name="LAST_COMMIT_MESSAGE" value="twocommitmaster2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="88" key="#Project_Structure" timestamp="1707923681069">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state x="313" y="88" key="#Project_Structure/0.0.1440.852@0.0.1440.852" timestamp="1707923681069" />
-    <state x="340" y="20" key="CommitChangelistDialog2" timestamp="1707927747235">
+    <state x="340" y="20" key="CommitChangelistDialog2" timestamp="1707928502449">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state x="340" y="20" key="CommitChangelistDialog2/0.0.1440.852@0.0.1440.852" timestamp="1707927747235" />
+    <state x="340" y="20" key="CommitChangelistDialog2/0.0.1440.852@0.0.1440.852" timestamp="1707928502449" />
     <state x="502" y="186" key="FileChooserDialogImpl" timestamp="1707923225910">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
@@ -182,6 +191,10 @@
       <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state x="224" y="72" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1707927063650" />
+    <state x="313" y="163" key="Vcs.Push.Dialog.v2" timestamp="1707928458680">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="313" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.852@0.0.1440.852" timestamp="1707928458680" />
     <state x="431" y="229" key="git4idea.merge.GitPullDialog" timestamp="1707927776159">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
